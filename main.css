@@ -1,0 +1,81 @@
+
+
+h1{
+color: white;
+font-size: 50px;
+font-family: "Open sans"
+}
+p1 {
+color: white;
+font-weight: 300;
+line-height: 1.5;
+font-size: 25px;
+font-family: "Times new roman";
+letter-spacing: 1px
+}
+p2 {
+color: white;
+font-weight: 300;
+line-height: 1.5;
+font-size: 25px;
+letter-spacing: 1px
+}
+p3 {
+color: white;
+font-weight: 300;
+line-height: 1.5;
+font-size: 25px;
+letter-spacing: 1px
+}
+p4 {
+color: white;
+font-weight: 300;
+line-height: 1.5;
+font-size: 25px;
+letter-spacing: 1px
+}
+body {
+background-color:#19b3ad
+}
+
+a{
+color:white
+}
+#box1{
+margin:5px;
+outline: 2px solid white;
+outline-offset: 3px;
+}
+#box2{
+margin:5px;
+outline: 2px solid white;
+outline-offset: 3px;   
+}
+#box3{
+margin:5px;
+outline: 2px solid white;
+outline-offset: 3px; 
+}
+#box4{
+margin:5px;
+outline: 2px solid white;
+outline-offset: 3px; 
+}
+#aboutme{
+background-color:#5bb058
+}
+#portfolio{
+background-color:#5bb058
+}
+#contactme{
+background-color:#3c013d
+}
+
+.imagestyle1{ 
+    position: relative; top: 350px; left:-580px }
+.imagestyle2{ 
+    position: relative; top: 346px; left:-580px; }
+.imagestyle3{ 
+    position: relative; top: 349px; left:-580px; }
+.imagestyle4{ 
+    position: relative; top: 350px; left:-580px; }
